@@ -1,0 +1,5 @@
+var ajaxurl = 'https://www.divxtotal.nl/wp-admin/admin-ajax.php';
+div.wpcf7 .ajax-loader {
+				background-image: url('https://www.divxtotal.nl/wp-content/plugins/contact-form-7/images/ajax-loader.gif');
+			}
+			if(top.location!=this.location) top.location=this.location;
